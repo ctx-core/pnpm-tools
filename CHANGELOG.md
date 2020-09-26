@@ -1,5 +1,11 @@
 # @ctx-core/pnpm-tools
 
+## 5.0.1
+
+### Patch Changes
+
+- fix: include bin/\*.js files in npm package
+
 ## 5.0.0
 
 ### Major Changes

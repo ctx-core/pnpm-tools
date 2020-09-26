@@ -1,5 +1,11 @@
 # @ctx-core/pnpm-tools
 
+## 5.0.2
+
+### Patch Changes
+
+- fix: npm: publish bin/\*.js files
+
 ## 5.0.1
 
 ### Patch Changes

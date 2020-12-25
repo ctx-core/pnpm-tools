@@ -1,5 +1,11 @@
 # @ctx-core/pnpm-tools
 
+## 5.0.7
+
+### Patch Changes
+
+- - .rush
+
 ## 5.0.6
 
 ### Patch Changes

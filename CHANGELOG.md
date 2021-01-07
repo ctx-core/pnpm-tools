@@ -1,5 +1,11 @@
 # @ctx-core/pnpm-tools
 
+## 5.0.10
+
+### Patch Changes
+
+- globby: ^11.0.1 -> ^11.0.2
+
 ## 5.0.9
 
 ### Patch Changes

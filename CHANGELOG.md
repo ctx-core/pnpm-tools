@@ -1,5 +1,11 @@
 # @ctx-core/pnpm-tools
 
+## 6.0.0
+
+### Major Changes
+
+- src directory
+
 ## 5.0.10
 
 ### Patch Changes

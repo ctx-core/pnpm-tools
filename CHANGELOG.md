@@ -1,5 +1,11 @@
 # @ctx-core/pnpm-tools
 
+## 6.0.10
+
+### Patch Changes
+
+- update dependencies
+
 ## 6.0.9
 
 ### Patch Changes

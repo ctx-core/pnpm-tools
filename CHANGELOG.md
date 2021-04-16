@@ -1,5 +1,11 @@
 # @ctx-core/pnpm-tools
 
+## 6.0.11
+
+### Patch Changes
+
+- js-yaml: 4.0.0 -> 4.1.0
+
 ## 6.0.10
 
 ### Patch Changes

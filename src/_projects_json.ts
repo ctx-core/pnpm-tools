@@ -5,7 +5,7 @@ import { join } from 'path'
 import { _project_json } from './_project_json'
 export async function _projects_json() {
 	const workspace_yaml_buffer = await fs.promises.readFile('./pnpm-workspace.yaml')
-	const doc = yaml.safeLoad(workspace_yaml_buffer)
+	const doc = yaml.load(workspace_yaml_buffer.toString()) as { packages:string[] }
 	const package_json_globs = doc.packages.map(doc_package=>{
 		return join('.', doc_package, 'package.json')
 	})

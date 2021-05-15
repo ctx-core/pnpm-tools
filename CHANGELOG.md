@@ -1,5 +1,11 @@
 # @ctx-core/pnpm-tools
 
+## 6.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
 ## 6.0.11
 
 ### Patch Changes

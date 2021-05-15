@@ -1,7 +1,7 @@
 import fs from 'fs'
 import { dirname } from 'path'
 import type { project_type } from '@ctx-core/monorepo'
-export async function _project_json(package_json_path) {
+export async function _project_json(package_json_path:string) {
 	const package_json_buffer = await fs.promises.readFile(package_json_path)
 	const package_json_str = package_json_buffer.toString()
 	const package_json = JSON.parse(package_json_str)

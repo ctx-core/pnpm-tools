@@ -1,5 +1,11 @@
 # @ctx-core/pnpm-tools
 
+## 6.2.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
 ## 6.1.2
 
 ### Patch Changes
@@ -154,7 +160,7 @@
 
 ### Major Changes
 
-- project_type property name updates:
+- project_T property name updates:
 
       package_name: string
       package_version: string

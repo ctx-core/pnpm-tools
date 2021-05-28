@@ -1,5 +1,11 @@
 # @ctx-core/pnpm-tools
 
+## 6.3.2
+
+### Patch Changes
+
+- fix: \_projects_json.js: execution
+
 ## 6.3.1
 
 ### Patch Changes

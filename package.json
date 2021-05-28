@@ -22,7 +22,7 @@
 		"_projects_json": "./bin/_projects_json.js"
 	},
 	"scripts": {
-		"build": "npm run compile",
+		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "./node_modules/.bin/tsc -b .",
 		"exec": "$@"

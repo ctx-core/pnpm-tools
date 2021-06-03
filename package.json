@@ -29,7 +29,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/function": "workspace:^18.1.0",
-		"@ctx-core/monorepo": "workspace:^16.0.5",
+		"@ctx-core/monorepo": "workspace:^16.0.6",
 		"esm": "^3.2.25",
 		"globby": "^11.0.3",
 		"js-yaml": "4.1.0"

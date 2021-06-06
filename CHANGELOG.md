@@ -1,5 +1,14 @@
 # @ctx-core/pnpm-tools
 
+## 7.0.4
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+- Updated dependencies [undefined]
+  - @ctx-core/function@18.1.2
+  - @ctx-core/monorepo@16.0.11
+
 ## 7.0.3
 
 ### Patch Changes

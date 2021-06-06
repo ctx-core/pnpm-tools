@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/pnpm-tools",
-	"version": "7.0.3",
+	"version": "7.0.4",
 	"description": "Tools for the @ctx-core monorepo",
 	"keywords": [
 		"ctx-core"
@@ -23,13 +23,13 @@
 	},
 	"scripts": {
 		"build": "npm run clean && npm run compile",
-		"clean": "rm -f tsconfig.tsbuildinfo",
+		"clean": "rm -f tsconfig.tsbuildinfo && rm -f dist/**/*.js && rm -f dist/**/*.d.ts && rm -f dist/**/*.map",
 		"compile": "./node_modules/.bin/tsc -b .",
 		"exec": "$@"
 	},
 	"dependencies": {
-		"@ctx-core/function": "workspace:^18.1.1",
-		"@ctx-core/monorepo": "workspace:^16.0.10",
+		"@ctx-core/function": "workspace:^18.1.2",
+		"@ctx-core/monorepo": "workspace:^16.0.11",
 		"esm": "^3.2.25",
 		"globby": "^11.0.3",
 		"js-yaml": "4.1.0"

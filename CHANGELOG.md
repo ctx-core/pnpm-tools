@@ -1,5 +1,13 @@
 # @ctx-core/pnpm-tools
 
+## 7.0.3
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/monorepo@16.0.8
+
 ## 7.0.2
 
 ### Patch Changes

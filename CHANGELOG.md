@@ -1,5 +1,14 @@
 # @ctx-core/pnpm-tools
 
+## 7.0.5
+
+### Patch Changes
+
+- version bump: run build
+- Updated dependencies [undefined]
+  - @ctx-core/function@18.1.3
+  - @ctx-core/monorepo@16.0.12
+
 ## 7.0.4
 
 ### Patch Changes

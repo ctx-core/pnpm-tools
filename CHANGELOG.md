@@ -1,5 +1,14 @@
 # @ctx-core/pnpm-tools
 
+## 8.0.4
+
+### Patch Changes
+
+- typescript: ^4.3.3 -> ^4.3.4
+- Updated dependencies [undefined]
+  - @ctx-core/function@19.1.2
+  - @ctx-core/monorepo@17.0.4
+
 ## 8.0.3
 
 ### Patch Changes

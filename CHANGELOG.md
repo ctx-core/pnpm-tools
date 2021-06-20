@@ -1,5 +1,14 @@
 # @ctx-core/pnpm-tools
 
+## 8.0.6
+
+### Patch Changes
+
+- fix: deploying \*.js files
+- Updated dependencies [undefined]
+  - @ctx-core/function@19.1.6
+  - @ctx-core/monorepo@17.1.3
+
 ## 8.0.5
 
 ### Patch Changes

@@ -1,5 +1,15 @@
 # @ctx-core/pnpm-tools
 
+## 8.0.5
+
+### Patch Changes
+
+- fix: npm run clean
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/function@19.1.3
+  - @ctx-core/monorepo@17.1.0
+
 ## 8.0.4
 
 ### Patch Changes

@@ -1,6 +1,5 @@
 import fs from 'fs'
 import { dirname } from 'path'
-import type { project_T } from '@ctx-core/monorepo'
 export async function project_json_(package_json_path:string) {
 	const package_json_buffer = await fs.promises.readFile(package_json_path)
 	const package_json_str = package_json_buffer.toString()
@@ -13,4 +12,9 @@ export async function project_json_(package_json_path:string) {
 		package_version,
 		package_dir,
 	} as project_T
+}
+export interface project_T {
+	package_name:string
+	package_version:string
+	package_dir:string
 }

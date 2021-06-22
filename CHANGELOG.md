@@ -1,5 +1,12 @@
 # @ctx-core/pnpm-tools
 
+## 8.0.7
+
+### Patch Changes
+
+- - @ctx-core/monorepo dependency
+- fix: bin: projects*json*
+
 ## 8.0.6
 
 ### Patch Changes

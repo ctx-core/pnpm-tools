@@ -1,5 +1,12 @@
 # @ctx-core/pnpm-tools
 
+## 8.0.15
+
+### Patch Changes
+
+- @types/glob: ~7.1.3 -> 7.1.4
+- @types/js-yaml: ^4.0.1 -> ^4.0.2
+
 ## 8.0.14
 
 ### Patch Changes

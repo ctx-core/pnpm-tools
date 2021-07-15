@@ -1,2 +1,2 @@
-export * from './project_json_'
-export * from './projects_json_'
+export * from './project_json_.js'
+export * from './projects_json_.js'

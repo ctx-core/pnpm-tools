@@ -2,7 +2,7 @@ import fs from 'fs'
 import yaml from 'js-yaml'
 import globby from 'globby'
 import { join } from 'path'
-import { project_json_ } from './project_json_'
+import { project_json_ } from './project_json_.js'
 export async function projects_json_() {
 	const workspace_yaml_buffer = await fs.promises.readFile('./pnpm-workspace.yaml')
 	const doc = yaml.load(workspace_yaml_buffer.toString()) as { packages:string[] }

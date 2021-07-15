@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/pnpm-tools",
-	"version": "9.0.0",
+	"version": "9.0.1",
 	"description": "Tools for the @ctx-core monorepo",
 	"keywords": [
 		"ctx-core"
@@ -15,7 +15,6 @@
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
-	"type": "module",
 	"main": "./index.js",
 	"module": "./index.js",
 	"types": "./index.ts",
@@ -29,7 +28,7 @@
 		"exec": "$@"
 	},
 	"dependencies": {
-		"@ctx-core/function": "workspace:^20.0.0",
+		"@ctx-core/function": "workspace:^20.0.1",
 		"esm": "^3.2.25",
 		"globby": "^11.0.4",
 		"js-yaml": "4.1.0"

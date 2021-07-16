@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import { run } from '@ctx-core/run'
-import projects_json_ from '../dist/index.js'
+import projects_json_ from '../dist/index.mjs'
 await run(async () => {
 	console.info(JSON.stringify(await projects_json_(), null, 2))
 })

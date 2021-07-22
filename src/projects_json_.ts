@@ -1,6 +1,6 @@
 import fs from 'fs'
 import yaml from 'js-yaml'
-import globby from 'globby'
+import { globby } from 'globby'
 import { join } from 'path'
 import { project_json_, project_T } from './project_json_.js'
 export async function projects_json_():Promise<project_T[]> {

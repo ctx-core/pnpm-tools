@@ -1,5 +1,11 @@
 # @ctx-core/pnpm-tools
 
+## 9.0.13
+
+### Patch Changes
+
+- @types/js-yaml: ^4.0.2 -> ^4.0.3
+
 ## 9.0.12
 
 ### Patch Changes

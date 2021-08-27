@@ -1,5 +1,13 @@
 # @ctx-core/pnpm-tools
 
+## 9.0.18
+
+### Patch Changes
+
+- typescript: ^4.3.5 -> ^4.4.2
+- Updated dependencies [undefined]
+  - @ctx-core/function@20.1.3
+
 ## 9.0.17
 
 ### Patch Changes

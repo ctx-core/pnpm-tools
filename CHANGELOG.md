@@ -1,5 +1,15 @@
 # @ctx-core/pnpm-tools
 
+## 9.0.22
+
+### Patch Changes
+
+- typescript: ^4.4.3 -> ^4.4.4
+- @types/glob: 7.1.4 -> 7.2.0
+- @types/js-yaml: ^4.0.3 -> ^4.0.4
+- Updated dependencies [undefined]
+  - @ctx-core/function@20.2.2
+
 ## 9.0.21
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @ctx-core/pnpm-tools
 
+## 9.0.25
+
+### Patch Changes
+
+- fix: projects*json*
+
 ## 9.0.24
 
 ### Patch Changes

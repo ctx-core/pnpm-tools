@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/pnpm-tools",
-	"version": "9.0.25",
+	"version": "9.0.26",
 	"description": "Tools for the @ctx-core monorepo",
 	"keywords": [
 		"ctx-core"
@@ -28,16 +28,16 @@
 		"exec": "$@"
 	},
 	"dependencies": {
-		"@ctx-core/function": "workspace:^20.2.4",
+		"@ctx-core/function": "workspace:^20.2.5",
 		"globby": "^12.0.2",
 		"js-yaml": "4.1.0"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.51",
-		"@swc/core": "^1.2.108",
+		"@swc/core": "^1.2.110",
 		"@types/glob": "7.2.0",
 		"@types/js-yaml": "^4.0.4",
-		"typescript": "^4.4.4"
+		"typescript": "^4.5.2"
 	},
 	"publishConfig": {
 		"access": "public",

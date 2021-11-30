@@ -1,5 +1,24 @@
 # @ctx-core/pnpm-tools
 
+## 9.0.28
+
+### Patch Changes
+
+- @swc/cli: ^0.1.51 -> ^0.1.52
+- @swc/core: ^1.2.111 -> ^1.2.113
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/function@20.2.7
+
+## 9.0.27
+
+### Patch Changes
+
+- @types/js-yaml: ^4.0.4 -> ^4.0.5
+- @swc/core: ^1.2.110 -> ^1.2.111
+- Updated dependencies
+  - @ctx-core/function@20.2.6
+
 ## 9.0.26
 
 ### Patch Changes

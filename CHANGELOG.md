@@ -1,5 +1,13 @@
 # @ctx-core/pnpm-tools
 
+## 9.0.36
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/function@20.2.16
+
 ## 9.0.35
 
 ### Patch Changes

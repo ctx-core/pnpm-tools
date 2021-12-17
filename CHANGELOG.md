@@ -1,5 +1,13 @@
 # @ctx-core/pnpm-tools
 
+## 9.0.38
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/function@20.2.18
+
 ## 9.0.37
 
 ### Patch Changes

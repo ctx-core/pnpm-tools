@@ -1,5 +1,13 @@
 # @ctx-core/pnpm-tools
 
+## 9.0.39
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+- Updated dependencies
+  - @ctx-core/function@20.2.19
+
 ## 9.0.38
 
 ### Patch Changes

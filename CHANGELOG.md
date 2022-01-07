@@ -1,5 +1,13 @@
 # @ctx-core/pnpm-tools
 
+## 9.0.43
+
+### Patch Changes
+
+- @swc/core: ^1.2.125 -> ^1.2.127
+- Updated dependencies
+  - @ctx-core/function@20.2.24
+
 ## 9.0.42
 
 ### Patch Changes

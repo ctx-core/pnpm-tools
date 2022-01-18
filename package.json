@@ -36,7 +36,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/function": "workspace:^20.2.25",
-		"globby": "^12.1.0",
+		"globby": "^12.2.0",
 		"js-yaml": "4.1.0"
 	},
 	"devDependencies": {

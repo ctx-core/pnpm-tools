@@ -35,13 +35,13 @@
 		"exec": "$@"
 	},
 	"dependencies": {
-		"@ctx-core/function": "workspace:^20.2.25",
+		"@ctx-core/function": "workspace:^20.3.0",
 		"globby": "^12.2.0",
 		"js-yaml": "4.1.0"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
-		"@swc/core": "^1.2.130",
+		"@swc/core": "^1.2.133",
 		"@types/glob": "7.2.0",
 		"@types/js-yaml": "^4.0.5",
 		"rimraf": "^3.0.2",

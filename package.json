@@ -35,7 +35,7 @@
 		"exec": "$@"
 	},
 	"dependencies": {
-		"@ctx-core/function": "workspace:^20.3.0",
+		"@ctx-core/function": "workspace:^20.4.0",
 		"globby": "^12.2.0",
 		"js-yaml": "4.1.0"
 	},

@@ -1,5 +1,11 @@
 # @ctx-core/pnpm-tools
 
+## 9.0.46
+
+### Patch Changes
+
+- globby: ^13.0.0 -> ^13.1.0
+
 ## 9.0.45
 
 ### Patch Changes

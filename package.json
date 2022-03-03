@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/pnpm-tools",
-	"version": "9.0.47",
+	"version": "9.0.48",
 	"description": "Tools for the @ctx-core monorepo",
 	"keywords": [
 		"ctx-core"

@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/pnpm-tools",
-	"version": "9.0.52",
+	"version": "9.0.53",
 	"description": "Tools for the @ctx-core monorepo",
 	"keywords": [
 		"ctx-core"
@@ -33,7 +33,7 @@
 		"exec": "$@"
 	},
 	"dependencies": {
-		"@ctx-core/function": "workspace:^20.7.0",
+		"@ctx-core/function": "^20.7.1",
 		"globby": "^13.1.1",
 		"js-yaml": "4.1.0"
 	},

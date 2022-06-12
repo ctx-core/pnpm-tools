@@ -34,7 +34,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/function": "^20.8.0",
-		"globby": "^13.1.1",
+		"globby": "^13.1.2",
 		"js-yaml": "4.1.0"
 	},
 	"devDependencies": {

@@ -1,5 +1,18 @@
 # @ctx-core/pnpm-tools
 
+## 9.0.59
+
+### Patch Changes
+
+- @ctx-core/function: 21.0.0
+
+## 9.0.58
+
+### Patch Changes
+
+- Updated dependencies
+  - @ctx-core/function@21.0.0
+
 ## 9.0.57
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @ctx-core/pnpm-tools
 
+## 9.0.60
+
+### Patch Changes
+
+- @types/glob: 7.2.0 -> 8.0.0
+
 ## 9.0.59
 
 ### Patch Changes

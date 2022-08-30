@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/pnpm-tools",
-	"version": "9.0.59",
+	"version": "9.0.60",
 	"description": "Tools for the @ctx-core monorepo",
 	"keywords": [
 		"ctx-core"
@@ -40,7 +40,7 @@
 	"devDependencies": {
 		"@swc/cli": "^0.1.57",
 		"@swc/core": "^1.2.245",
-		"@types/glob": "7.2.0",
+		"@types/glob": "8.0.0",
 		"@types/js-yaml": "^4.0.5",
 		"rimraf": "^3.0.2",
 		"typescript": "next"

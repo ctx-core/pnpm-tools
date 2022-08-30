@@ -33,7 +33,7 @@
 		"exec": "$@"
 	},
 	"dependencies": {
-		"@ctx-core/function": "^21.0.0",
+		"@ctx-core/function": "^21.0.1",
 		"globby": "^13.1.2",
 		"js-yaml": "4.1.0"
 	},

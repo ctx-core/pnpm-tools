@@ -1,5 +1,11 @@
 # @ctx-core/pnpm-tools
 
+## 9.0.63
+
+### Patch Changes
+
+- tiny-glob instead of globby
+
 ## 9.0.62
 
 ### Patch Changes

@@ -34,7 +34,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/array": "workspace:^26.7.8",
-		"@ctx-core/function": "^21.5.0",
+		"@ctx-core/function": "^21.6.0",
 		"dir-glob": "^3.0.1",
 		"js-yaml": "4.1.0",
 		"path-type": "^5.0.0",

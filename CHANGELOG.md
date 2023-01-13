@@ -1,5 +1,11 @@
 # @ctx-core/pnpm-tools
 
+## 9.0.74
+
+### Patch Changes
+
+- rimraf: ^3.0.2 -> ^4.0.1
+
 ## 9.0.73
 
 ### Patch Changes

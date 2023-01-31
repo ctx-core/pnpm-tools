@@ -1,5 +1,14 @@
 # @ctx-core/pnpm-tools
 
+## 9.0.79
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/array@26.8.13
+  - @ctx-core/function@21.6.1
+
 ## 9.0.78
 
 ### Patch Changes

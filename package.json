@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/pnpm-tools",
-	"version": "9.0.89",
+	"version": "9.1.0",
 	"description": "Tools for the @ctx-core monorepo",
 	"keywords": [
 		"ctx-core"
@@ -15,22 +15,24 @@
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
-	"types": "./lib/index.d.ts",
+	"type": "module",
+	"types": "./src/index.d.ts",
+	"svelte": "./src/index.js",
 	"exports": {
-		".": "./lib/index.js",
+		".": "./src/index.js",
 		"./package.json": "./package.json"
 	},
 	"bin": {
 		"projects_json_": "./bin/projects_json_.mjs"
 	},
 	"scripts": {
-		"build": "npm run compile",
-		"clean": "rimraf lib && npm run clean:tsbuildinfo",
-		"clean:tsbuildinfo": "rimraf tsconfig.tsbuildinfo && rimraf lib/**/*.d.ts",
-		"compile": "npm run compile:source && npm run compile:declaration",
-		"compile:source": "swc src --out-dir lib --copy-files --source-maps --config-file .swcrc",
-		"compile:declaration": "npm run clean:tsbuildinfo && tsc --declaration --emitDeclarationOnly --declarationDir lib",
-		"exec": "$@"
+		"build": ":",
+		"clean": ":",
+		"exec": "$@",
+		"prepublishOnly": "npm run clean && npm run build && npm run test",
+		"test": "pnpm test-unit && check-dts",
+		"test-unit": "tsx node_modules/uvu/bin.js . '\\.test\\.(ts|js)$'",
+		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
 		"@ctx-core/array": "26.10.1",
@@ -41,18 +43,15 @@
 		"tiny-glob": "^0.2.9"
 	},
 	"devDependencies": {
-		"@swc/cli": "^0.1.62",
-		"@swc/core": "^1.3.35",
-		"@types/glob": "8.0.1",
-		"@types/js-yaml": "^4.0.5",
-		"rimraf": "^4.1.2",
-		"typescript": "next"
+		"c8": "^7.13.0",
+		"check-dts": "^0.7.0",
+		"tsx": "^3.12.3",
+		"typescript": "next",
+		"uvu": "^0.5.6"
 	},
 	"publishConfig": {
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"type": "module",
-	"svelte": "./lib/index.js",
 	"sideEffects": false
 }

@@ -1,5 +1,12 @@
 # @ctx-core/pnpm-tools
 
+## 9.1.9
+
+### Patch Changes
+
+- Updated dependencies
+  - @ctx-core/array@26.11.7
+
 ## 9.1.8
 
 ### Patch Changes

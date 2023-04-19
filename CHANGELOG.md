@@ -1,5 +1,14 @@
 # @ctx-core/pnpm-tools
 
+## 9.1.55
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+- Updated dependencies
+  - @ctx-core/array@26.12.32
+  - @ctx-core/function@21.17.19
+
 ## 9.1.54
 
 ### Patch Changes

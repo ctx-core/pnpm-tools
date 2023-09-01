@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/pnpm-tools",
-	"version": "9.1.71",
+	"version": "9.1.72",
 	"description": "Tools for the @ctx-core monorepo",
 	"keywords": [
 		"ctx-core"
@@ -35,8 +35,8 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^26.15.0",
-		"@ctx-core/function": "^21.19.0",
+		"@ctx-core/array": "^26.15.1",
+		"@ctx-core/function": "^21.20.0",
 		"dir-glob": "^3.0.1",
 		"js-yaml": "4.1.0",
 		"path-type": "^5.0.0",

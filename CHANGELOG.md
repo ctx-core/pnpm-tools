@@ -1,5 +1,14 @@
 # @ctx-core/pnpm-tools
 
+## 9.2.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/array@27.0.2
+  - @ctx-core/function@21.21.2
+
 ## 9.2.1
 
 ### Patch Changes

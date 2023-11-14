@@ -1,5 +1,14 @@
 # @ctx-core/pnpm-tools
 
+## 9.2.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - @ctx-core/array@27.0.3
+  - @ctx-core/function@21.21.3
+
 ## 9.2.2
 
 ### Patch Changes

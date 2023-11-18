@@ -1,5 +1,12 @@
 # @ctx-core/pnpm-tools
 
+## 9.2.14
+
+### Patch Changes
+
+- @ctx-core/function: ^21.22.8 -> ^21.22.9
+- @ctx-core/array: ^27.0.13 -> ^27.0.14
+
 ## 9.2.13
 
 ### Patch Changes

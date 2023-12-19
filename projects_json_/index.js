@@ -1,4 +1,4 @@
-import { flatten } from '@ctx-core/array'
+import { flatten } from 'ctx-core/array'
 import fs from 'fs'
 import yaml from 'js-yaml'
 import { join } from 'path'

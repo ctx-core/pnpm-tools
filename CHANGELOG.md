@@ -1,5 +1,13 @@
 # @ctx-core/pnpm-tools
 
+## 9.2.56
+
+### Patch Changes
+
+- consolidate dependencies
+- Updated dependencies
+  - ctx-core@5.1.0
+
 ## 9.2.55
 
 ### Patch Changes

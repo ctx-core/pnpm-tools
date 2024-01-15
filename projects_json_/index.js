@@ -1,7 +1,7 @@
 import { flatten } from 'ctx-core/array'
-import fs from 'fs'
+import fs from 'node:fs'
 import yaml from 'js-yaml'
-import { join } from 'path'
+import { join } from 'node:path'
 import glob from 'tiny-glob'
 import { project_json_ } from '../project_json_/index.js'
 export async function project_json_a_() {

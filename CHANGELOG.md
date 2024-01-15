@@ -1,5 +1,13 @@
 # @ctx-core/pnpm-tools
 
+## 9.2.89
+
+### Patch Changes
+
+- import nodejs core modules using node: prefix
+- Updated dependencies
+  - ctx-core@5.18.8
+
 ## 9.2.88
 
 ### Patch Changes

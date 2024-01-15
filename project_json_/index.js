@@ -1,5 +1,5 @@
-import fs from 'fs'
-import { dirname } from 'path'
+import fs from 'node:fs'
+import { dirname } from 'node:path'
 /**
  * @param package_json_path{string}
  * @returns {Promise<import('./index.d.ts').project_T>}

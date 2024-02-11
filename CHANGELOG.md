@@ -1,5 +1,11 @@
 # @ctx-core/pnpm-tools
 
+## 9.2.135
+
+### Patch Changes
+
+- ctx-core: ^6.1.2 -> ^6.1.3
+
 ## 9.2.134
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @ctx-core/pnpm-tools
 
+## 9.2.157
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 9.2.156
 
 ### Patch Changes

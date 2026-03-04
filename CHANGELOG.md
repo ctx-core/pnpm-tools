@@ -1,5 +1,27 @@
 # @ctx-core/pnpm-tools
 
+## 9.2.207
+
+### Patch Changes
+
+- c8: ^10.1.3 -> ^11.0.0
+- js-yaml: 4.1.0 -> 4.1.1
+- check-dts: ^0.8.2 -> ^0.9.0
+- tsx: ^4.20.6 -> ^4.21.0
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - ctx-core@7.2.33
+
 ## 9.2.206
 
 ### Patch Changes
